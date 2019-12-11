@@ -1,0 +1,74 @@
+Twas the night before Christmas, when all through the cloud
+Not a container was stirring, no alert was aloud;
+The deployments were running, on workers with care,
+In hopes that an operator, would visit them there;
+
+The processes were nestled, all snug in containers,
+While visions of transactions, danced in maintainers;
+The master at quorum, and CNI at parity,
+The platform settled down, for a long winter's verity,
+
+When out on the CPUs, there arose such a clatter,
+A process spawned, and memory use grew fatter.
+Away to the prompt, I flew like a flash,
+Tore open the laptop, and threw up the dash.
+
+The I/O was pulsing, like a freshly deployed release,
+Giving the lustre of life, to objects at peace.
+When, what to my wondering eyes should appear,
+But suspicious activity, and privileged access, oh dear!
+
+With a little old driver, so ready to attack us,
+I knew in a moment, it must be that evil Krampus.
+More rapid than eagles his trojans they came,
+My terminal whistled, and shouted, and called syscalls by name;
+
+Now, EXECVE! now, FORK! now, GETUID and SOCKET!
+On, PREADV! on PTRACE! on, MOUNT and LINKAT!
+To the top of the process tree! To the top of the node!
+Now branch away! Fork away! The data it flowed!
+
+I could see Krampus accessing data of children,
+Oh how Article 42 must have been a burden.
+I switched on my traces and rerouted the traffic,
+But it wasn't enough, as he extracted a demographic!
+
+At Naughty & Nice Corporation, we aim to protect,
+The identities of children, who maybe aren't perfect.
+But Krampus was hunting for data to use,
+To get rid of good and isolate those to abuse!
+
+Finally I turned to Falco, my open source friend,
+To setup a rule and turn the tide on this malicious trend.
+Watch those syscalls, and process, and traffic,
+To lock down the leakage and not become epitaphic.
+
+Events started firing, containers were stopped,
+The attack was ceasing, the connections were dropped.
+A capture was triggered, which would help me inspect,
+The damage and data that needed to be checked.
+
+A breach notification, might be required,
+I started immediately, to investigate what transpired.
+It turns out a form, did not sufficiently validate,
+The input from users, how terribly antiquate.
+
+We checked our capture, and then checked it twice,
+For we needed to be certain, that our precautions suffice.
+Through experience, or planning, or sheer fortune of luck,
+Our childrens data was salted and encrypted, thank f...
+
+Our data is safe, children need not understand,
+How close this night came, to having Christmas canned.
+But Santa is loading that encrypted data right now,
+Using algorithms and machine learning, to get his know-how.
+
+So he loads his sleigh, with plenty of reward,
+For all those children, that he so adored.
+Our servers and processes and applications are secure,
+Protected at runtime, to allow them to endure.
+
+Now St Nick is preparing, for the delivery ahead,
+So sleep safely knowing, we have a security beachhead.
+And I heard him exclaim, as he drove out of sight,
+HAPPY CHRISTMAS TO ALL, AND TO ALL A GOOD-NIGHT!
