@@ -1,4 +1,4 @@
-#The Grinch-App who crashed Christmas
+The Grinch-App who crashed Christmas
 
 Every Pod down in Kubeville liked Christmas a lot.
 But the Grinch-App who lived just North of Kubeville did not!
