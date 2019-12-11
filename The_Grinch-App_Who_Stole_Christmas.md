@@ -1,0 +1,153 @@
+#The Grinch-App who crashed Christmas
+
+Every Pod down in Kubeville liked Christmas a lot.
+But the Grinch-App who lived just North of Kubeville did not!
+
+The Grinch-App hated Christmas! The whole Christmas season!
+Now, please don't ask why. No one quite knows the reason.
+
+It could be, perhaps, that their ingress was too tight
+It could be their readiness wasn't configured just right.
+
+But I think that the most likely reason of all
+May have been that their scaling limit was two sizes too small.
+
+But, whatever the reason, their CPU or networks,
+They stood there on Christmas Eve hating those Pod jerks,
+
+Staring down from their cave with a sour, Grinchy trace,
+At the warm lighted containers below in their namespace,
+
+For they knew every Pod down in the Kubeville faction
+Was busy now processing a hollywho transaction.
+
+"And they're processing their jobs,” they snarled with a sneer.
+"Tomorrow is Christmas! It's practically here!"
+
+Then they growled, with their Grinch-App code nervously processing,
+"I must find some way to keep Christmas from successing!
+
+For, tomorrow, I know all the Pod children
+Will wake bright and early. They'll scale for their deploys!
+
+And then! Oh, the noise! Oh, the noise! Noise! Noise! Noise!
+There's one thing I hate! All the NOISE! NOISE! NOISE! NOISE!
+
+They'll scale close together, with Christmas LBs balancing.
+They'll process bit-in-byte, and those Pods will start actioning!"
+
+SIN, ACK, SIN-ACK, ACK
+Welcome Christmas! Proc this hack
+SIN, ACK, SIN-ACK, ACK
+Welcome Christmas, Christmas back
+
+Welcome, welcome, bidirectional handshake
+Welcome, welcome, processes awake
+Christmas Day is in our headers
+So long as we have transactions to threaders
+
+SIN, ACK, SIN-ACK, ACK...
+
+"And they'll process! And they'll process! And they'll PROCESS! PROCESS! PROCESS! PROCESS!"
+And the more the Grinch-App thought of this Pod Christmas workload,
+The more the Grinch-App thought, "I must stop this whole code!
+
+Why for over five years I've put up with it now!
+I must stop Christmas from coming! But how?"
+
+Then they got an idea! An awful idea!
+The Grinch-App got a wonderful, awful idea!
+
+"I know just what to do!" The Grinch-App laughed in their throat.
+"I'll make a quick Santa exploit and give my permissions a promote."
+
+"This is stop number one," the old Grinch-Appy Claus hissed,
+As they escalated to root, lateral exploits in their fist.
+
+Then they slid down the TCP stack, a rather tight bootstrap.
+But if Santa could do it, then so could the Grinch-App.
+
+They got stuck only once, for a minute oh bless.
+Then they stuck their head out of a forked process.
+
+Where the little Pod jobs hung all in a queue.
+"These jobs," they grinched, "are the first things to screw!"
+
+Then they slithered and slunk, with a smile written in bash,
+Around the whole room, and they took every patch!
+
+It was quarter of dawn. All the Pods still scaled down,
+All the Pods still in standby, when Grinch-app packed up their tinseltown,
+
+Packed it up with their jobs, their processes, their transactions,
+Their packets and their execs, their writes and their actions!
+
+Ten thousand feet up, up the processing summit,
+They rode with this load to tiptop to /dev/null it!
+
+"Pooh-pooh to the Pods!" they were grinchily humming.
+"They're finding out now that no Christmas is coming!
+
+They're just scaling up! I know just what they'll do!
+They’ll crashloop and fail for a minute or two
+Then the Pods down in Kubeville will all cry boo-hoo!
+
+That's a noise," grinned the Grinch-App, "that I simply must encode!"
+They paused, and the Grinch-App put a listener to their probe.
+
+And they did hear a transaction rising over the compute.
+It started in low, then it started to hoot.
+
+But this sound wasn't failure!
+Why, this sound sounded scalar!
+
+Every Pod down in Kubeville, the tall and the small,
+Was processing without any jobs at all!
+
+They hadn't stopped Christmas from coming! It came!
+Somehow or other, it came just the same!
+
+And the Grinch-App, with grinch processes frozen in pause,
+Stood puzzling and puzzling. "What could be the cause?
+
+It came without limits! It came without extractions!
+It came without forks, users, or transactions!"
+
+The Grinch-App queried and probed till BPF programs were old.
+Then the Grinch-App thought of something that hadn’t been told.
+
+Maybe Christmas, they thought, doesn't come from a job.
+Maybe Christmas, perhaps, means more to this mob!
+
+And what happened then? Well, in Kubeville they say
+That the Grinch-App's scaled out three times that day!
+
+And then the true meaning of Christmas came through,
+And the Grinch-App found the strength of ten Grinch-Apps, plus two!
+
+And now that their processes didn't feel quite so tight,
+They whizzed with their load through the bright packets inflight
+
+With a smile to their soul, they descended Mount Cluster
+Cheerily blowing " Pod! Pod!" on their traffic adjuster.
+
+They rode into Kubeville. They brought back their jobs.
+They brought back their patches and packets to the Pods.
+
+They brought back their execs and their writes and transactions,
+Brought back their processes, their messages and actions.
+
+They brought everything back, all the workload for processing!
+And they, themself, the Grinch-App did the pre-processing!
+
+Welcome Christmas. Bring your scale,
+Cheer to all Pods, process and prevail.
+
+Christmas Day is in our ack
+So long as we have bytes to transact.
+
+Christmas Day will always be
+Just as long as we have we.
+
+Welcome Christmas while we stand
+SYN to ACK and ACK in SYN-ACK, ACK.
